@@ -1,0 +1,56 @@
+.cmd {
+    display: flex;
+    margin-top: 5%;
+}
+
+.cmd .panier {
+    background-color: black;
+    width: 60%;
+    padding: 2%;
+    padding-top: 5%;
+    color: white;
+    font-size: 18px;
+}
+
+
+.cmd .produit {
+    margin-left: 0%;
+    padding: 0%;
+}
+
+.cmd .produit button {
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 2%;
+    color: rgb(243, 149, 9);
+    background-color: rgb(10, 10, 10);
+    border-color: rgb(243, 149, 9);
+    border-style: double;
+}
+
+.cmd .produit li {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.cmd .produit img {
+    width: 400px;
+    height: 300px;
+}
+
+.produit p {
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 17%;
+}
+
+.cmd a {
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    border: 3px;
+    border-color: rgb(243, 149, 9);
+}

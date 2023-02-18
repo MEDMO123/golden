@@ -1,0 +1,37 @@
+.formulaire {
+
+    background-color: black;
+    color: rgb(253, 250, 246);
+    justify-items: center;
+    margin: 15%;
+    padding: 2%;
+    margin-top: 5%;
+    border-color: rgb(243, 149, 9);
+}
+
+.formulaire label {
+    font-size: 20px;
+}
+
+.formulaire input {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    padding: 1%;
+    border-color: rgb(243, 149, 9);
+}
+
+fieldset {
+    padding-left: 10%;
+
+}
+
+.button {
+    align-items: center;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 30%;
+    background-color: white;
+    border-color: rgb(243, 149, 9);
+    border-style: double;
+
+}

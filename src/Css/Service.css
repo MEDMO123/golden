@@ -1,0 +1,34 @@
+.menu p {
+    font-size: 27px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 2%;
+    text-align: center;
+}
+
+.service h2 {
+    font-size: 27px;
+    padding: 1%;
+    color: rgb(243, 149, 9);
+    background-color: black;
+    width: 500px;
+    height: 5%;
+    text-align: center;
+    margin-left: 30%;
+}
+
+.service p {
+    font-size: 21px;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 2%;
+    text-align: center;
+}
+
+.service li {
+    justify-content: center;
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 40%;
+
+}

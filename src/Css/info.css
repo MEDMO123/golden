@@ -1,0 +1,19 @@
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 5%;
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+
+.appli img {
+    width: 100px;
+    height: 50px;
+}
+
+.paie img {
+    width: 100px;
+    height: 50px;
+}

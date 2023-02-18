@@ -1,0 +1,31 @@
+.authentification h1 {
+    margin-top: 4%;
+    text-align: center;
+}
+
+.authentification form {
+    background-color: black;
+    width: 50%;
+    height: 25%;
+    margin-top: 3%;
+    margin-left: 15%;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    padding: 3%;
+}
+
+.authentification .button {
+    margin-top: 5%;
+    justify-content: center;
+    margin-bottom: 1%;
+    align-content: center;
+    align-items: center;
+}
+
+.authentification input {
+    padding-top: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-color: rgb(243, 149, 9);
+}

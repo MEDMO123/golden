@@ -1,0 +1,33 @@
+.navigation ul {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    list-style: none;
+    margin-left: 2%;
+}
+
+a {
+
+    font-size: 23px;
+    text-decoration: none;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(10, 10, 10);
+    padding: 10%;
+}
+
+.link {
+    font-weight: bold;
+    color: rgb(243, 149, 9);
+}
+
+.navigation h2 {
+    font-size: 25px;
+    padding: 1%;
+    color: rgb(243, 149, 9);
+    background-color: black;
+    width: 500px;
+    height: 5%;
+    text-align: center;
+    margin-left: 30%;
+    margin-top: 2%;
+}
